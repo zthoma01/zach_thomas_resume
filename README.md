@@ -1,1 +1,1 @@
-# I am a second year master's student at Tufts studying Data Analytics and looking for Summer 2021 internships. I will be adding more code over the upcoming months.
+# I am a second-year master's student at Tufts studying Data Analytics and looking for Summer 2021 internships. I have a strong background in SQL and Tableau with developing machine learning skills. I will be adding more code over the upcoming months. Please connect with me if you know of any opportunities I may be a good fit for. 
